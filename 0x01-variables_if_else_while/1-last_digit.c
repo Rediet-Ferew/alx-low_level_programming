@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	int n;
+    int n;
     int last;
     char str[] = "Last digit of";
 
