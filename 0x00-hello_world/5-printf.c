@@ -1,13 +1,13 @@
 #include <stdio.h>
 /**
- *
- *    * main - Prints onto screen
- *
- *       *
- *
- *          * Return: zero
- *
- *             */
+ 
+     * main - Prints onto screen
+ 
+     * 
+ 
+     *  Return: zero
+ 
+              */
 
 int main(void)
 {

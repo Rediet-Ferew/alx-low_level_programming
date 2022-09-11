@@ -1,13 +1,13 @@
 #include <stdio.h>
 /**
- *
- *    * main - computes sizes of various data types
- *
- *       *
- *
- *          *Return: zero
- *
- *             */
+ 
+     * main - computes sizes of various data types
+ 
+     *
+ 
+     *Return: zero
+ 
+              */
 int main(void)
 {
 
