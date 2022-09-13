@@ -2,7 +2,7 @@
 /**
 * main - prints the string _putchar
 * @void : no argument
-* Return - 0
+* Return :0
 */
 int main(void)
 {
