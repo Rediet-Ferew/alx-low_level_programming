@@ -1,14 +1,20 @@
 #include <stdio.h>
 #include "main.h"
+#include <string.h>
 /**
 * main - prints the string _putchar
-* @void : no argument
-* Return :0
-**/
+*
+* Return - zero
+*/
 int main(void)
 {
 	char str[] = "_putchar";
+	int i;
 
-	printf("%s\n", str);
+	for (i = 0; i < 8; i++)
+	{
+		_putchar(str[i]);
+	}
+	_putchar('\n');
 	return (0);
 }
