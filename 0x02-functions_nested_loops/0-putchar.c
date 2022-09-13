@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "main.h"
 /**
 * main - prints the string _putchar
 * @void : no argument
