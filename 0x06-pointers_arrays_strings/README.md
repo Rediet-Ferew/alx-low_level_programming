@@ -1,0 +1,1 @@
+A readme file for the second c- pointers, arrays and strings project
