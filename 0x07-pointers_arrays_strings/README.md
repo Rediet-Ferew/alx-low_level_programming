@@ -1,0 +1,1 @@
+Another project for C - pointers, arrays and strings
